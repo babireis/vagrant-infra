@@ -22,3 +22,5 @@ Vagrant 2.2.18 # Response example (if your bash not return something like this, 
 cd infra-vagrant
 vagrant up
 ```
+
+.
